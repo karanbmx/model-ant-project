@@ -7,3 +7,4 @@ public class HelloTest extends TestCase {
         new Hello().foo();
     }
 }
+hello 
